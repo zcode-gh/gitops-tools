@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/zcode-gh/gitops-tools/compare/v1.0.0...v1.1.0) (2026-04-05)
+
+
+### Features
+
+* using tools reposiory for ci scripts ([b5ac184](https://github.com/zcode-gh/gitops-tools/commit/b5ac184ce39f330071fccd423f5a7f0a7dde523b))
+
 # 1.0.0 (2026-04-03)
 
 
