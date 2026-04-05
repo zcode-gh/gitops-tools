@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/zcode-gh/gitops-tools/compare/v1.1.0...v1.2.0) (2026-04-05)
+
+
+### Features
+
+* add hooks scripts and settings ([0518cb5](https://github.com/zcode-gh/gitops-tools/commit/0518cb5aeb039d85e6febeb9da3ef7c1183eb4c3))
+
 # [1.1.0](https://github.com/zcode-gh/gitops-tools/compare/v1.0.0...v1.1.0) (2026-04-05)
 
 
